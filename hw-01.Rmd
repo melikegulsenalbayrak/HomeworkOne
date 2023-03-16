@@ -57,7 +57,7 @@ Write Your Answer Here!
 
 **Question 9** With $LaTeX$ write your favorite equation in block form.
 
-
+$$/E=mc^2/$$
 
 **Question 10** In a code chunk calculate 3 + 4.
 
