@@ -33,7 +33,11 @@ This is **_italic bold_**.
 
 **Question 5** With Markdown write an ordered list with three items.
 
-Write Your Answer Here!
+1. Olive
+
+2. Tomato
+
+3. Pepper
 
 **Question 6** With Markdown give a link to your favorite webpage.
 
