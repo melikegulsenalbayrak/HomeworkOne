@@ -49,7 +49,11 @@ Write Your Answer Here!
 
 **Question 8** With Rmarkdown insert a code chunk and give an example of a simple mathematical calculation in it.
 
-Write Your Answer Here!
+```{r}
+3**2
+```
+
+
 
 **Question 9** With $LaTeX$ write your favorite equation in block form.
 
