@@ -57,8 +57,11 @@ Write Your Answer Here!
 
 **Question 9** With $LaTeX$ write your favorite equation in block form.
 
-Write Your Answer Here!
+
 
 **Question 10** In a code chunk calculate 3 + 4.
 
-Write Your Answer Here!
+```{r}
+sum(3+4)
+```
+
