@@ -45,7 +45,7 @@ This is **_italic bold_**.
 
 **Question 7** With Markdown add a cat picture.
 
-Write Your Answer Here!
+![catpicture](https://play-lh.googleusercontent.com/XVHP0sBKrRJYZq_dB1RalwSmx5TcYYRRfYMFO18jgNAnxHAIA1osxM55XHYTb3LpkV8)
 
 **Question 8** With Rmarkdown insert a code chunk and give an example of a simple mathematical calculation in it.
 
